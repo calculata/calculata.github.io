@@ -1,5 +1,5 @@
-// Source: https://www.un.org/en/universal-declaration-human-rights/index.html
-//		   as of January 2020
+// Human Rights in English Language
+// Source: https://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng (January 2020)
 
 Article 1
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
